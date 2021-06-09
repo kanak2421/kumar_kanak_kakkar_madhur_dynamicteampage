@@ -1,0 +1,66 @@
+main
+{
+	margin: 0 auto;
+	width: 1000px;
+	display: flex;
+	flex-direction: row;
+	font-family: Arial, sans-serif;
+}
+h1
+{
+	text-align: center;
+	font-size: 38px;
+	color:#0000FF;
+	margin-top: 40px;
+	font-family: "fantasy";
+}
+p
+{
+	text-align: center;
+	font-size: 38px;
+	color: 	#000000;
+	margin-top: 40px;
+	font-family: "fantasy";
+}
+.memberInfo h2
+{
+	color: #0000FF;
+	font-size: 36px;
+	margin-bottom: 0px;
+}
+.memberInfo h3
+{
+	margin-top: 0px;
+	font-size: 25px;
+}
+.detail
+{
+	font-size: 20px;
+}
+.memberInfo
+{
+	margin-left: 20px;
+}
+.controlImg
+{
+	padding-left: 150px;
+}
+button
+{
+	padding: 10px 20px;
+	font-family: 'Arial';
+	font-size: 15px;
+	background-color: #39424e;
+	color: white;
+	margin-top: 20px;
+}
+button:hover
+{
+	background-color: #a8d0e6;
+	color: #0000FF;
+	border-radius: 10px;
+}
+.imageCon img
+{
+	width: 500px;
+}
